@@ -323,7 +323,7 @@ main {
 
 .avatar-box {
   background: var(--bg-gradient-onyx);
-  border-radius: 90px; /* Increase this value for a more rounded appearance */
+  border-radius: 20px; /* Increase this value for a more rounded appearance */
 }
 
 .info-content .name {

@@ -324,6 +324,9 @@ main {
 .avatar-box {
   background: var(--bg-gradient-onyx);
   border-radius: 20px; /* Increase this value for a more rounded appearance */
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .info-content .name {

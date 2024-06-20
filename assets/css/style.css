@@ -309,10 +309,9 @@ main {
   max-height: 112px;
   overflow: hidden;
   transition: var(--transition-2);
-  overflow-y: auto;
 }
 
-.sidebar.active { max-height: 405px; }
+.sidebar.active { max-height: 420px; }
 
 .sidebar-info {
   position: relative;
